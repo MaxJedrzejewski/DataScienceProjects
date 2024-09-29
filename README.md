@@ -1,2 +1,1 @@
-# Max_Portfolio
-Data Science portfolio 
+# Data science projects
